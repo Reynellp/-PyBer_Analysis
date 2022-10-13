@@ -18,10 +18,13 @@ Attached below gives maps out the highest and lowest average fare per month. Whi
 # Summary:
 
 - Rural 
+
 Keeping total drivers low in this area would work as great incentive for drivers due to the higher average fare. While ride count is in the lower of the spectrum your team can motivate these drivers to maximize profits by educating the potential to make more money when heading to work or when running errands. 
 
 - Suburban
+
 I believe the margin in these areas are great. We have a great ratio of drives vs total rides which reflects on the average fare per driver. It should be easy to maintain the average fares in this area. 
 
 - Urban
+
 The Urban areas do need more drivers due to the population counts however total drivers outweigh the total amount of rides in the cities. Investing in more advertisment to entice more riders may lead to an increase in average fare per driver. Creating enticing specials like discounted rates during specifc time frame or direct disount sent to the customers apps. 
